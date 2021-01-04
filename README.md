@@ -1,1 +1,1 @@
-Montre comme valider un courriel par un eexpression regex
+Montre comme valider un courriel par un expression regex
